@@ -1,5 +1,5 @@
 
-1.Amazon fine food riviews
+1.Amazon fine food reviews
  I have downloaded the dataset from Kaggle. 
  https://www.kaggle.com/snap/amazon-fine-food-reviews
 Please find the details of my work in this medium article. 
